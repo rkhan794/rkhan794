@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ramiz Khan and a CS Major at Northwestern University
+- 👋 Hi, I’m Ramiz Khan and a CS Major at Northwestern University graduating in 2025
 - 👀 I’m interested in Computer Science and AI
-- 🌱 I’m currently learning Algorithmic Trading Using Python and Stack
 - 💞️ I’m looking for internships so I can build new skills and gain valuable computer science experience 
-- 📫 How to reach me: My emails are ramizk794@gmail.com and ramizkhan2025@u.northwestern.edu
+- 📫 How to reach me: My email is ramizk794@gmail.com
